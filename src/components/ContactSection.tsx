@@ -176,8 +176,8 @@ const ContactSection = () => {
                   <div>
                     <h4 className="font-semibold text-foreground mb-1">Correos</h4>
                     <p className="text-muted-foreground">
-                      info@madisonhighschool.edu.ec<br />
-                      admisiones@madisonhighschool.edu.ec
+                      info@uemhs.edu.ec<br />
+                      admisiones@uemhs.edu.ec
                     </p>
                   </div>
                 </div>
